@@ -1,0 +1,17 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Grand Theft Auto Vice City.TTF);
+}
+  
+h1 {
+    font-family: myFirstFont;
+    color: black;
+}
+h2 {
+    font-family: myFirstFont;
+    color: black;
+}
+p {
+    font-family: myFirstFont;
+    color: black;
+}
